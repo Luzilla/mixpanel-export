@@ -11,6 +11,7 @@
       "Luzilla\\": "src/"
     }
   },
+  "description": "Export data from mixpanel.com",
   "license": "BSD-2-Clause",
   "require": {
     "symfony/console": "^3.0.3"
