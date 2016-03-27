@@ -1,0 +1,18 @@
+{
+  "name": "luzilla/mixpanel-export",
+  "authors": [
+    {
+      "name": "Till Klampaeckel"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Mixpanel": "src/",
+      "Luzilla\\": "src/"
+    }
+  },
+  "license": "BSD-2-Clause",
+  "require": {
+    "symfony/console": "^3.0.3"
+  }
+}
